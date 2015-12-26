@@ -6,27 +6,28 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T21:32:54.345Z'
-dateModified: '2015-12-26T21:32:43.422Z'
-title: The Guardian
+datePublished: '2015-12-26T21:41:07.318Z'
+dateModified: '2015-12-26T21:40:54.192Z'
+title: THE GUARDIAN
 author: []
+sourcePath: _posts/2015-12-26-the-guardian.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-the-guardian.md
-published: true
 url: the-guardian/index.html
 _type: Article
 
 ---
-# The Guardian
+# THE GUARDIAN
 
-# ANIMATED SHORT
+Animated short
 
 5 mins, hand drawn black and white
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f193c057-92f6-437e-b963-5e33ab8ddd88.jpg)
 
 # ORIGINAL MUSIC
 
@@ -59,4 +60,3 @@ later sculpted in many layers into the final music, and we had an
 amazingly productive session. His input was so brilliant, including 
 long sections of improvised melodies that fitted perfectly, that I asked
 N9ve to change the composing credit to include Sasha.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f193c057-92f6-437e-b963-5e33ab8ddd88.jpg)
