@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T21:41:07.318Z'
-dateModified: '2015-12-26T21:40:54.192Z'
+datePublished: '2015-12-26T22:29:02.934Z'
+dateModified: '2015-12-26T22:28:53.327Z'
 title: THE GUARDIAN
 author: []
 sourcePath: _posts/2015-12-26-the-guardian.md
@@ -38,6 +38,7 @@ in collaboration with Sasha Agranov
 # ALLESANDRO NOVELLI
 
 produced by N9ve
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c68350b5-8562-430c-9aa6-aa4f6e952988.jpg)
 
 # ABOUT THE PROJECT
 
@@ -51,6 +52,7 @@ music, the jarring, tense, rich and uncomfortable sounds of exploring
 the boundaries of tonal and atonal compositions. I thought it would 
 marry well with the austere and strange hand-drawn world of the story, 
 and set the tone for the dark, sad tale.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b3753fb-5314-4b8d-bdd1-d3014274e6ed.jpg)
 
 # ABOUT THE MUSIC
 
@@ -60,3 +62,4 @@ later sculpted in many layers into the final music, and we had an
 amazingly productive session. His input was so brilliant, including 
 long sections of improvised melodies that fitted perfectly, that I asked
 N9ve to change the composing credit to include Sasha.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33840dc6-06a8-463e-b8ec-13f0b58cac08.jpg)
