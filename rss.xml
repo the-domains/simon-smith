@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[simon smith]]></title>
         <description><![CDATA[simon smith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simon-smith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 21:32:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Dec 2015 21:41:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simon-smith/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Guardian]]></title>
-            <description><![CDATA[<article><h1>The Guardian</h1><p>5 mins, hand drawn black and white</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffcf70a852f8780ec11b52c88d4e3a03/croprotate.jpg?cropheight=273&cropwidth=485&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff193c057-92f6-437e-b963-5e33ab8ddd88.jpg&x=0&y=0"></article>]]></description>
-            <link>undefinedthe-guardian/index.html</link>
+            <title><![CDATA[THE GUARDIAN]]></title>
+            <description><![CDATA[<article><h1>THE GUARDIAN</h1><p>Animated short</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ffcf70a852f8780ec11b52c88d4e3a03/croprotate.jpg?cropheight=273&cropwidth=485&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ff193c057-92f6-437e-b963-5e33ab8ddd88.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/simon-smith/the-guardian/index.html</link>
             <guid isPermaLink="false">6895b5e6-18a9-40d0-853e-e66627c8f343</guid>
-            <pubDate>Sat, 26 Dec 2015 21:32:54 GMT</pubDate>
+            <pubDate>Sat, 26 Dec 2015 21:41:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
