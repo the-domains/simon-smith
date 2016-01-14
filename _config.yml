@@ -1,6 +1,6 @@
 name: simon smith
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.84406
 typography_spectrum: 0
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#464646'
     - '#c7c7c7'
     - '#8b8b8b'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.8125
+  lightness: 0.9375
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose: []
